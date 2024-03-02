@@ -1,0 +1,4 @@
+[main]
+threads = 100
+proxyless = true
+license = ""
