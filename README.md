@@ -4,7 +4,17 @@
 </h1>
 
 
-@@ -20,24 +20,23 @@ This software was made for personal **education** and **sandbox testing**
+**NOTE:** 
+- Disclaimer -
+I'm not responsible for any damages this software may cause after being acquired. 
+This software was made for personal **education** and **sandbox testing**
+---
+
+
+## <a id="content"></a>🌐 〢 Content
+- [📩・Deploy With](#deploys)
+- [🎉・Setting up](#setup)
+- [👁️・Preview](#preview)
 
 
 ## <a id="deploys"></a>📩 〢 Deploys
